@@ -1,0 +1,2 @@
+Old Intel Graphics driver found; Disabling FBO. Please update your driver
+gdi32_comm_shutdown wait for polling thread timed out.
